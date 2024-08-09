@@ -80,7 +80,7 @@ const style = {
     borderRadius: "50%",
   },
   btn: {
-    backgroundColor: "#e0a69d",
+    backgroundColor: "wheat",
     border: "none",
     borderRadius: "20px",
     padding: "10px 20px",
@@ -108,7 +108,7 @@ const Navbar = () => {
     <Flex
       vertical
       style={{
-        backgroundColor: "#c3e2f1",
+        backgroundColor: "white",
         height: "100vh",
         paddingTop: "10px",
         position: "sticky",
@@ -181,7 +181,7 @@ const Navbar = () => {
       <Menu
         style={{
           width: "100%",
-          backgroundColor: "#c3e2f1",
+          backgroundColor: "white",
           letterSpacing: "2px",
           textAlign: "center",
         }}
